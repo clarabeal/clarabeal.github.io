@@ -1,0 +1,33 @@
+body{
+    padding-top: 70px;
+}
+
+.navbar-toggler-icon{
+    color:white;
+}
+
+.row{
+    margin-bottom: 50px;
+}
+
+.btn{
+    color:white;
+    background-color:#E5246A;
+}
+
+.reseaux{
+    color:#E5246A;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.lien{
+    font-size: 20px;
+    display:block;
+    text-align:center;
+}
+
+.section{
+    padding-top:50px;
+    margin-top:-50px;
+}
